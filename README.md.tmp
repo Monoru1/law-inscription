@@ -1,0 +1,3 @@
+# THE LAW: REBIRTH — inscription
+
+Site statique de préinscription. Déploiement Netlify : publier la racine `/` ; aucun build requis. Formulaire `the-law-rebirth` enregistré dans Netlify Forms et destinataire de notification configurable dans Netlify > Forms > Notifications. Aucun e-mail transactionnel automatique sans fournisseur SMTP vérifié.
